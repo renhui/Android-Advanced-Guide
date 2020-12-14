@@ -55,7 +55,7 @@
 
 3. 自定义 View 绘制图片
 
-![20201214140853](\img\20201214140853.jpg)
+![20201214140853](https://github.com/renhui/Android-Advanced-Guide/blob/main/img/20201214140853.jpg)
 
 **（二）AudioRecord API详解**
 

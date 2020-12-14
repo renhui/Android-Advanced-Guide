@@ -59,7 +59,7 @@
 
 **（二）AudioRecord API详解**
 
-![20201214144727](\img\20201214144727.jpg)
+![20201214144727](https://github.com/renhui/Android-Advanced-Guide/blob/main/img/20201214144727.jpg)
 
 **（三）使用 AudioRecord 实现录音，并生成wav**
 
@@ -70,7 +70,7 @@
 - 关闭数据流
 - 停止录音
 
-![20201214144850](\img\20201214144850.jpg)
+![20201214144850](https://github.com/renhui/Android-Advanced-Guide/blob/main/img/20201214144850.jpg)
 
 **（四）用 AudioTrack 播放PCM音频**
 
@@ -91,7 +91,7 @@
 - 联系
 - SoundPool
 
-![20201214144950](\img\20201214144950.jpg)
+![20201214144950](https://github.com/renhui/Android-Advanced-Guide/blob/main/img/20201214144950.jpg)
 
 **（五）使用 Camera API 采集视频数据**
 
@@ -109,7 +109,7 @@
 
 3.使用情境
 
-![20201214145037](\img\20201214145037.jpg)
+![20201214145037](https://github.com/renhui/Android-Advanced-Guide/blob/main/img/20201214145037.jpg)
 
 **（七）** **MediaCodec API 详解**
 
@@ -123,7 +123,7 @@
 - Android 硬编码流控
 - Android 流控策略选择
 
-![20201214145137](\img\20201214145137.jpg)
+![20201214145137](https://github.com/renhui/Android-Advanced-Guide/blob/main/img/20201214145137.jpg)
 
  由于文章篇幅受限，剩余内容过多，文中插图有限，下文只能截图目录展示 
 
@@ -143,7 +143,7 @@
 - GLSurfaceviw 绘制 Camera 预览画面及实现拍照
 - 使用OpenGL ES 完成视频的录制，并实现视频水印效果
 
-![20201214145240](\img\20201214145240.jpg)
+![20201214145240](https://github.com/renhui/Android-Advanced-Guide/blob/main/img/20201214145240.jpg)
 
 # **三、高级探究篇**
 
@@ -183,9 +183,9 @@
 - 多媒体文件格式（四）：TS 格式
 - 多媒体文件格式（五）：PCM / WAV 格式
 
-![20201214145325](\img\20201214145325.jpg)
+![20201214145325](https://github.com/renhui/Android-Advanced-Guide/blob/main/img/20201214145325.jpg)
 
-![20201214145334](\img\20201214145334.jpg)
+![20201214145334](https://github.com/renhui/Android-Advanced-Guide/blob/main/img/20201214145334.jpg)
 
 # **FFmpeg 学习记录** 
 
@@ -194,7 +194,7 @@
 - FFmpeg命令行工具学习(三)：媒体文件转换工具ffmpeg
 - FFmpeg命令行工具学习(四)：FFmpeg 采集设备
 - FFmpeg命令行工具学习(五)：FFmpeg 调整音视频播放速度
-- ![20201214145417](\img\20201214145417.jpg)
+- ![20201214145417](https://github.com/renhui/Android-Advanced-Guide/blob/main/img/20201214145417.jpg)
 
 - FFmpeg 学习(一)：FFmpeg 简介
 - FFmpeg 学习(二)：Mac下安装FFmpeg
@@ -203,7 +203,7 @@
 - FFmpeg 学习(五)：FFmpeg 编解码 API 分析
 - FFmpeg 学习(六)：FFmpeg 核心模块 libavformat 与 libavcodec 分析
 
-![20201214145531](\img\20201214145531.jpg)
+![20201214145531](https://github.com/renhui/Android-Advanced-Guide/blob/main/img/20201214145531.jpg)
 
 
 FFmpeg 结构体学习(一)：AVFormatContext 分析
@@ -222,15 +222,15 @@ FFmpeg 结构体学习(七)：AVIOContext 分析
 
 FFmpeg 结构体学习(八)：FFMPEG中重要结构体之间的关系
 
-![20201214145618](\img\20201214145618.jpg)
+![20201214145618](https://github.com/renhui/Android-Advanced-Guide/blob/main/img/20201214145618.jpg)
 
  **更多目录截图** 
 
-![20201214145700](\img\20201214145700.jpg)
+![20201214145700](https://github.com/renhui/Android-Advanced-Guide/blob/main/img/20201214145700.jpg)
 
-![20201214145651](\img\20201214145651.jpg)
+![20201214145651](https://github.com/renhui/Android-Advanced-Guide/blob/main/img/20201214145651.jpg)
 
-![20201214145705](\img\20201214145705.jpg)
+![20201214145705](https://github.com/renhui/Android-Advanced-Guide/blob/main/img/20201214145705.jpg)
 
 ***\*最后\****
 
@@ -248,16 +248,16 @@ FFmpeg 结构体学习(八)：FFMPEG中重要结构体之间的关系
 
 我搜集整理了这几年抖音，以及斗鱼，爱奇艺，等公司的音视频项目实战，把音视频开发的要求和技术点梳理成一份大而全的“ Android音视频”学习 Xmind（实际上比预期多花了不少精力），包含知识脉络 + 分支细节。
 
-![20201214145811](\img\20201214145811.png)
+![20201214145811](https://github.com/renhui/Android-Advanced-Guide/blob/main/img/20201214145811.png)
 
 **在搭建这些技术框架的时候，还整理了音视频开发进阶项目实战教程，会比自己碎片化学习效果强太多。**
 
-![20201214145933](img\20201214145933.jpg)
+![20201214145933](https://github.com/renhui/Android-Advanced-Guide/blob/main/img/20201214145933.jpg)
 
 ***\*最后提醒：以上整理的音视频进阶学习PDF和音视频开发视频，均可以免费分享，有需要的朋友！\****
 
 ***\*扫码进群！联系管理员免费获取！加入我们的圈子领取资料，和我们一起学习交流吧！~\****
 
-![20201214150013](img\20201214150013.png)
+![20201214150013](https://github.com/renhui/Android-Advanced-Guide/blob/main/img/20201214150013.png)
 
  **赶紧加入我们Android音视频进阶学习交流群：****933971311** **和我们一起学习交流吧！** 

@@ -1,5 +1,5 @@
 # Android-Advanced-Guide
-Andorid 开发 &amp; 音视频开发高级进阶指南
+Andorid 开发 &amp; 音视频 高级进阶指南
 
 
 ### 音视频进阶指南
@@ -15,3 +15,16 @@ Andorid 开发 &amp; 音视频开发高级进阶指南
 >- [Android 项目优化（五）：应用启动优化](https://www.cnblogs.com/renhui/p/11768163.html)
 >- [Android 项目优化（六）：项目开发时优化技巧总结](https://www.cnblogs.com/renhui/p/11772888.html)
 >- [Android 项目优化（七）：阿里巴巴Android开发手册整理总结](https://www.cnblogs.com/renhui/p/11977754.html)
+
+
+### Android常见框架原理学习
+
+提到原理学习，最直接也最快捷的当然是手写框架，通过自己开发实现其核心功能，这样不仅能在一定程度上理解框架原理，也能结合自己之前使用这个框架的经验升华出来一些新的设计思路，对后面的开发很有帮助！
+
+>- 手写 RxJava ：RxJavaCoreDemo -> https://gitee.com/renhui112115/rx-java-core-demo
+>- 手写 Glide : GlideCoreDemo -> https://gitee.com/renhui112115/glide-core-demo
+>- 手写 ARouter : RouteCoreDemo -> https://gitee.com/renhui112115/route-core-demo
+>- 手写 换肤 ：SkinCoreDemo -> https://gitee.com/renhui112115/skin-core-demo
+>- 手写 跨进程EventBus ： HermesEventBus -> https://gitee.com/renhui112115/hermes-event-bus
+>- 手写 EventBus ： https://gitee.com/renhui112115/Sutherland/tree/master/app/src/main/java/com/renhui/android/handwriting/eventbus
+>- 手写 Handler : https://gitee.com/renhui112115/Sutherland/tree/master/app/src/main/java/com/renhui/android/handwriting/handler

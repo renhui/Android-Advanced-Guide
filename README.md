@@ -28,5 +28,3 @@ Andorid 开发 &amp; 音视频 高级进阶指南
 >- 手写 OkHttp : OkHttpCoreDemo -> https://gitee.com/renhui112115/ok-http
 >- 手写 换肤 ：SkinCoreDemo -> https://gitee.com/renhui112115/skin-core-demo
 >- 手写 跨进程EventBus ： HermesEventBus -> https://gitee.com/renhui112115/hermes-event-bus
->- 手写 EventBus ： https://gitee.com/renhui112115/Sutherland/tree/master/app/src/main/java/com/renhui/android/handwriting/eventbus
->- 手写 Handler : https://gitee.com/renhui112115/Sutherland/tree/master/app/src/main/java/com/renhui/android/handwriting/handler

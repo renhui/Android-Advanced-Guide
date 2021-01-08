@@ -28,3 +28,9 @@ Andorid 开发 &amp; 音视频 高级进阶指南
 >- 手写 OkHttp : OkHttpCoreDemo -> https://gitee.com/renhui112115/ok-http
 >- 手写 换肤 ：SkinCoreDemo -> https://gitee.com/renhui112115/skin-core-demo
 >- 手写 跨进程EventBus ： HermesEventBus -> https://gitee.com/renhui112115/hermes-event-bus
+
+
+### Android 逆向分析
+
+>- [Android 逆向分析（一）：使用改之理实现逆向HelloWorld](https://www.cnblogs.com/renhui/p/14218482.html)
+>- [Android 逆向分析（二）：动态调试实现](https://www.cnblogs.com/renhui/p/14220687.html)

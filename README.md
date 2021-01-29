@@ -16,6 +16,10 @@ Andorid 开发 &amp; 音视频 高级进阶指南
 >- [Android 项目优化（六）：项目开发时优化技巧总结](https://www.cnblogs.com/renhui/p/11772888.html)
 >- [Android 项目优化（七）：阿里巴巴Android开发手册整理总结](https://www.cnblogs.com/renhui/p/11977754.html)
 
+### Android依赖注入【视频】
+
+>- [Hilt：Google 的依赖注入库终于达到了小白可用的级别](https://www.bilibili.com/video/BV1e54y1S72A/?spm_id_from=333.788.recommend_more_video.0)
+>- [从 Dagger 到 Hilt，谷歌为何执着于让我们用依赖注入？](https://www.bilibili.com/video/BV1nK4y1v7u9/?spm_id_from=333.788.recommend_more_video.10)
 
 ### Android常见框架原理学习
 

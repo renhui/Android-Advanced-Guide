@@ -18,8 +18,9 @@ Andorid 开发 &amp; 音视频 高级进阶指南
 
 ### Android依赖注入【视频】
 
+>- [【移动端大型项目】注入神器Dagger2详解](https://www.bilibili.com/video/BV1Cz4y1D7bU?from=search&seid=17034608315216977339)
+(建议看前三节就行，后面全是广告)
 >- [Hilt：Google 的依赖注入库终于达到了小白可用的级别](https://www.bilibili.com/video/BV1e54y1S72A/?spm_id_from=333.788.recommend_more_video.0)
->- [从 Dagger 到 Hilt，谷歌为何执着于让我们用依赖注入？](https://www.bilibili.com/video/BV1nK4y1v7u9/?spm_id_from=333.788.recommend_more_video.10)
 
 ### Android常见框架原理学习
 

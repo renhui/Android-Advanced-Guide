@@ -35,6 +35,9 @@ Andorid 开发 &amp; 音视频 高级进阶指南
 >- 手写 跨进程EventBus ： HermesEventBus -> https://gitee.com/renhui112115/hermes-event-bus
 
 
+>- OkHttp涉及核心知识点：https://github.com/renhui/Android-Advanced-Guide/blob/main/core/okhttp.md
+
+
 ### Android 逆向分析
 
 >- [Android 逆向分析（一）：使用改之理实现逆向HelloWorld](https://www.cnblogs.com/renhui/p/14218482.html)

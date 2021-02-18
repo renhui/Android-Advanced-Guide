@@ -33,9 +33,12 @@ Andorid 开发 &amp; 音视频 高级进阶指南
 >- 手写 OkHttp : OkHttpCoreDemo -> https://gitee.com/renhui112115/ok-http
 >- 手写 换肤 ：SkinCoreDemo -> https://gitee.com/renhui112115/skin-core-demo
 >- 手写 跨进程EventBus ： HermesEventBus -> https://gitee.com/renhui112115/hermes-event-bus
+>
+>
 
 
->- OkHttp涉及核心知识点：https://github.com/renhui/Android-Advanced-Guide/blob/main/core/okhttp.md
+>- OkHttp 涉及核心知识点：https://github.com/renhui/Android-Advanced-Guide/blob/main/core/okhttp.md
+>- Retrofit 涉及核心知识点：https://github.com/renhui/Android-Advanced-Guide/blob/main/core/Retrofit.md
 
 
 ### Android 逆向分析

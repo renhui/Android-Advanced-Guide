@@ -1,11 +1,6 @@
 # Android-Advanced-Guide
 Andorid 开发 &amp; 音视频 高级进阶指南
 
-
-### 音视频进阶指南
->- [(AD)作为一个Android程序员，精通音视频开发，寒冬再冷也冻不到你](https://github.com/renhui/Android-Advanced-Guide/blob/main/AD.md)
-
-
 ### Android项目优化
 
 >- [Android 项目优化（一）：项目代码规范优化](https://www.cnblogs.com/renhui/p/11005279.html)
@@ -57,3 +52,9 @@ Andorid 开发 &amp; 音视频 高级进阶指南
 
 >- [Android 逆向分析（一）：使用改之理实现逆向HelloWorld](https://www.cnblogs.com/renhui/p/14218482.html)
 >- [Android 逆向分析（二）：动态调试实现](https://www.cnblogs.com/renhui/p/14220687.html)
+>
+
+### AD 
+>- [(AD)作为一个Android程序员，精通音视频开发，寒冬再冷也冻不到你](https://github.com/renhui/Android-Advanced-Guide/blob/main/AD.md)
+
+

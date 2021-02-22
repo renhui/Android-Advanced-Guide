@@ -3,7 +3,7 @@ Andorid 开发 &amp; 音视频 高级进阶指南
 
 
 ### 音视频进阶指南
->- [作为一个Android程序员，精通音视频开发，寒冬再冷也冻不到你](https://github.com/renhui/Android-Advanced-Guide/blob/main/AD.md)
+>- [(AD)作为一个Android程序员，精通音视频开发，寒冬再冷也冻不到你](https://github.com/renhui/Android-Advanced-Guide/blob/main/AD.md)
 
 
 ### Android项目优化
@@ -33,12 +33,24 @@ Andorid 开发 &amp; 音视频 高级进阶指南
 >- 手写 OkHttp : OkHttpCoreDemo -> https://gitee.com/renhui112115/ok-http
 >- 手写 换肤 ：SkinCoreDemo -> https://gitee.com/renhui112115/skin-core-demo
 >- 手写 跨进程EventBus ： HermesEventBus -> https://gitee.com/renhui112115/hermes-event-bus
->
->
-
+<p></p>
+<p></p>
 
 >- OkHttp 涉及核心知识点：https://github.com/renhui/Android-Advanced-Guide/blob/main/core/okhttp.md
 >- Retrofit 涉及核心知识点：https://github.com/renhui/Android-Advanced-Guide/blob/main/core/Retrofit.md
+>
+
+### Android NDK 开发
+>- [Android NDK学习（一）：目录结构解析](https://www.cnblogs.com/renhui/p/9156398.html)
+>- [Android NDK学习（二）：编译脚本语法Android.mk和Application.mk](https://www.cnblogs.com/renhui/p/9156786.html)
+>- [Android NDK学习（三）：Hello World](https://www.cnblogs.com/renhui/p/6925810.html)
+>- [Android NDK学习（四）：C/C++层调用JAVA](https://www.cnblogs.com/renhui/p/8491762.html)
+>- [Android NDK学习（五）：Java调用Native代码流程总结](https://www.cnblogs.com/renhui/p/9155318.html)
+>- [Android NDK学习（六）： so文件兼容之abiFilters的使用](https://www.cnblogs.com/renhui/p/9083073.html)
+>- [Android NDK学习（七）：NDK 编译支持 C++特有的库](https://www.cnblogs.com/renhui/p/9566271.html)
+>- [Android NDK 之CPU架构兼容与包体积控制方案](https://www.cnblogs.com/renhui/p/14429624.html)
+>- [Android NDK 跨平台构建工具 CMake 使用笔记](https://www.cnblogs.com/renhui/p/13614371.html)
+>- [Android NDK&JNI开发之Native崩溃日志分析方法](https://www.cnblogs.com/renhui/p/13536720.html)
 
 
 ### Android 逆向分析

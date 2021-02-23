@@ -1,6 +1,6 @@
 # Android-Advanced-Guide
 
-Andorid架构&音视频进阶指南，希望能和大家一同进步，在Android架构&音视频领域深耕。
+Andorid架构&音视频进阶指南
 
 目录：
 

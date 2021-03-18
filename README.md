@@ -37,7 +37,6 @@ Andorid架构&音视频进阶指南
 >- 手写 跨进程EventBus ： HermesEventBus -> https://gitee.com/renhui112115/hermes-event-bus
 <p></p>
 <p></p>
-
 >- OkHttp 涉及核心知识点：https://github.com/renhui/Android-Advanced-Guide/blob/main/core/okhttp.md
 >- Retrofit 涉及核心知识点：https://github.com/renhui/Android-Advanced-Guide/blob/main/core/Retrofit.md
 >
@@ -67,8 +66,3 @@ Andorid架构&音视频进阶指南
 >- [Android 逆向分析（一）：使用改之理实现逆向HelloWorld](https://www.cnblogs.com/renhui/p/14218482.html)
 >- [Android 逆向分析（二）：动态调试实现](https://www.cnblogs.com/renhui/p/14220687.html)
 >
-
-### AD 
->- [(AD)作为一个Android程序员，精通音视频开发，寒冬再冷也冻不到你](https://github.com/renhui/Android-Advanced-Guide/blob/main/AD.md)
-
-

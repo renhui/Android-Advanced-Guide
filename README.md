@@ -85,5 +85,5 @@ Andorid架构&音视频进阶指南
 
 ### 算法经验
 
-[链表面试算法](一) 链表的删除-相关题型总结（6题）：https://zhuanlan.zhihu.com/p/83899301
+链表的删除-相关题型总结（6题）：https://zhuanlan.zhihu.com/p/83899301
 

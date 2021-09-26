@@ -81,3 +81,9 @@ Andorid架构&音视频进阶指南
 ### Android 经验总结
 
 >- [Android使用ContentProvider初始化SDK库方案总结](https://www.cnblogs.com/renhui/p/14700093.html)
+
+
+### 算法经验
+
+[链表面试算法](一) 链表的删除-相关题型总结（6题）：https://zhuanlan.zhihu.com/p/83899301
+

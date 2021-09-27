@@ -90,3 +90,7 @@ Andorid架构&音视频进阶指南
 链表的合并|反转|翻转|复制-相关题型总结（7题）：https://zhuanlan.zhihu.com/p/84070916
 
 链表的排序（2题）：https://zhuanlan.zhihu.com/p/85122573
+
+链表结构的判断（3题）：https://zhuanlan.zhihu.com/p/85122655
+
+链表算法解题思路总结(17题)：https://zhuanlan.zhihu.com/p/85197826

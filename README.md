@@ -77,6 +77,7 @@ Andorid 架构 & 音视频 进阶指南
 ### Android 自定义View
 
 >- [Android事件分发机制详解](https://www.jianshu.com/p/38015afcdb58)
+>- [Android事件分发之ACTION_CANCEL机制及作用](https://blog.csdn.net/cufelsd/article/details/89471402)
 
 
 ### 算法经验

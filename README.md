@@ -87,6 +87,9 @@ Andorid架构&音视频进阶指南
 
 >- [说说对Zygote的理解](https://blog.csdn.net/weixin_60861987/article/details/119845732)
 
+### Android 自定义View
+
+>- [Android事件分发机制详解](https://www.jianshu.com/p/38015afcdb58)
 
 
 ### 算法经验

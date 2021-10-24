@@ -68,7 +68,7 @@ Andorid 架构 & 音视频 进阶指南
 ### Android 经验总结
 
 >- [Android使用ContentProvider初始化SDK库方案总结](https://www.cnblogs.com/renhui/p/14700093.html)
-
+>- [Android Studio 使用Memory Monitor进行内存泄露分析](https://www.cnblogs.com/renhui/p/11075548.html)
 
 ### Android FrameWork 
 
